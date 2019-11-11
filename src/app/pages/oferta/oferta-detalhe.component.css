@@ -1,0 +1,26 @@
+.gallery-title
+{
+    font-size: 25px;
+    text-align: justify;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+}
+.button {
+    display: inline;
+    float: right;
+   }
+
+.photos{
+    width: 300px;
+    height: 300px;
+}
+.description{
+    text-align: justify;
+}
